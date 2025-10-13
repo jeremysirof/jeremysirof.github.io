@@ -2833,10 +2833,6 @@ input, select, textarea {
 			transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 			font-size: 1rem;
 		}
-		#nav .icons li .icon {
-			position: relative;
-			top: 8px;
-		}
 /* List */
 
 	ol {
