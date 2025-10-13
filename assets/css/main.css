@@ -2811,7 +2811,7 @@ input, select, textarea {
 			padding: 0 0.5rem 0 0;
 			vertical-align: middle;
 		}
-
+		
 			ul.icons li:last-child {
 				padding-right: 0;
 			}
@@ -2833,7 +2833,10 @@ input, select, textarea {
 			transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 			font-size: 1rem;
 		}
-
+		#nav .icons li .icon {
+			position: relative;
+			top: 2px; /* Try 1px or 3px depending on exact look */
+		}
 /* List */
 
 	ol {
