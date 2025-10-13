@@ -2835,7 +2835,7 @@ input, select, textarea {
 		}
 		#nav .icons li .icon {
 			position: relative;
-			top: 2px; /* Try 1px or 3px depending on exact look */
+			top: 50px;
 		}
 /* List */
 
